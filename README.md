@@ -1,14 +1,15 @@
 ## AI News
 <img src="ai.jpg" alt="AI" style="width:450px;height:300px;">
 <hr>
-https://ai4life.github.io/problems/
+<A HREF="https://ai4life.github.io/problems/">
 
-https://futurism.com/categories/artificialintelligence
 
-https://www.journals.elsevier.com/artificial-intelligence
+<A HREF="https://futurism.com/categories/artificialintelligence">
 
-https://www.kaggle.com/
+<A HREF="https://www.journals.elsevier.com/artificial-intelligence">
 
-http://ai.stanford.edu
+<A HREF="https://www.kaggle.com/">
 
-https://www.frontiersin.org/journals/systems-neuroscience
+<A HREF="http://ai.stanford.edu">
+
+<A HREF="https://www.frontiersin.org/journals/systems-neuroscience">
