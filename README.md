@@ -8,3 +8,7 @@ https://futurism.com/categories/artificialintelligence
 https://www.journals.elsevier.com/artificial-intelligence
 
 https://www.kaggle.com/
+
+http://ai.stanford.edu
+
+https://www.frontiersin.org/journals/systems-neuroscience
