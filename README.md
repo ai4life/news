@@ -6,7 +6,7 @@
 
 <A HREF="https://futurism.com/categories/artificialintelligence">Futurism</A>
 
-<A HREF="https://www.journals.elsevier.com/artificial-intelligence">Futurism</A>
+<A HREF="https://www.journals.elsevier.com/artificial-intelligence">Artificial Intelligence Journal</A>
 
 <A HREF="https://www.kaggle.com/">Kaggle</A>
 
