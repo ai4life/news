@@ -44,6 +44,10 @@
 
 <A HREF="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">IEEE Transactions on Pattern Analysis and Machine Intelligence</A>
 
+<A HREF="https://jacm.acm.org/">Journal of the ACM (JACM)</A>
+
+<A HREF="https://www.journals.elsevier.com/international-journal-of-approximate-reasoning">International Journal of Approximate Reasoning</A>
+
 
 <hr>
 
