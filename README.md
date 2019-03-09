@@ -56,6 +56,13 @@
 
 <A HREF="https://link.springer.com/journal/10458">Autonomous Agents and Multi-Agent Systems</A>
 
+<A HREF="https://link.springer.com/journal/10618">Data Mining and Knowledge Discovery</A>
+
+<A HREF="http://annals.math.princeton.edu/">Annals of Mathematics</A>
+
+<A HREF="https://link.springer.com/journal/11023">Minds and Machines</A>
+
+
 
 <hr>
 
