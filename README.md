@@ -62,7 +62,21 @@
 
 <A HREF="https://link.springer.com/journal/11023">Minds and Machines</A>
 
+<A HREF="https://link.springer.com/journal/521">Neural Computing and Applications</A>
 
+<A HREF="https://www.tandfonline.com/loi/uaai20">Applied Artificial Intelligence</A>
+
+<A HREF="https://link.springer.com/journal/138">Machine Vision and Applications</A>
+
+<A HREF="https://link.springer.com/journal/10844">Journal of Intelligent Information Systems</A>
+
+<A HREF="https://link.springer.com/journal/10846">Journal of Intelligent & Robotic Systems</A>
+
+<A HREF="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91">IEEE Transactions on Fuzzy Systems</A>
+
+
+
+ 
 
 <hr>
 
