@@ -1,5 +1,8 @@
 ## AI News
 <img src="ai.jpg" alt="AI" style="width:450px;height:300px;">
+
+<script type="text/javascript" src="//counter.websiteout.net/js/2/15/0/0"></script>
+
 <hr>
 <A HREF="https://ai4life.github.io/problems/">
 
