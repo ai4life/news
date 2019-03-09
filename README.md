@@ -32,6 +32,7 @@
 
 <A HREF="http://www.aaai.org/Magazine/magazine.php">AI MAGAZINE</A>
 
+<A HREF="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">IEEE Transactions on Neural Networks and Learning Systems</A>
 
 
 
