@@ -48,6 +48,14 @@
 
 <A HREF="https://www.journals.elsevier.com/international-journal-of-approximate-reasoning">International Journal of Approximate Reasoning</A>
 
+<A HREF="https://link.springer.com/journal/11263">International Journal of Computer Vision</A>
+
+<A HREF="https://journals.sagepub.com/home/ijr">The International Journal of Robotics Research</A>
+
+<A HREF="https://link.springer.com/journal/11263">International Journal of Computer Vision</A>
+
+<A HREF="https://link.springer.com/journal/10458">Autonomous Agents and Multi-Agent Systems</A>
+
 
 <hr>
 
