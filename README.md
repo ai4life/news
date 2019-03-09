@@ -12,7 +12,7 @@
 
 <A HREF="http://ai.stanford.edu">Sanford AI</A>
 
-<A HREF="https://www.frontiersin.org/journals/systems-neuroscience">Frontiers In Systems Neuroscience</A>
+
 
 <A HREF="https://news.ycombinator.com/">Hacker News</A>
 
@@ -78,6 +78,7 @@
 
 <A HREF="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91">IEEE Transactions on Fuzzy Systems</A>
 
+<A HREF="https://www.frontiersin.org/journals/systems-neuroscience">Frontiers In Systems Neuroscience</A>
 
 
  
