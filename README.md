@@ -16,6 +16,10 @@
 
 <A HREF="https://news.ycombinator.com/">Hacker News</A>
 
+<A HREF="https://jack-clark.net/">Import AI</A>
+
+
+
 <hr>
 
 <b>Journals<b/>
