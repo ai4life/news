@@ -38,8 +38,11 @@
 
 <A HREF="https://www.journals.elsevier.com/neurocomputing">Neurocomputing</A>
 
+<A HREF="https://www.journals.elsevier.com/fuzzy-sets-and-systems">Fuzzy Sets and Systems</A>
 
+<A HREF="https://www.journals.elsevier.com/knowledge-based-systems">Knowledge-Based Systems</A>
 
+<A HREF="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">IEEE Transactions on Pattern Analysis and Machine Intelligence</A>
 
 
 <hr>
