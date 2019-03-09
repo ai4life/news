@@ -36,6 +36,9 @@
 
 <A HREF="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91">IEEE Transactions on Fuzzy Systems</A>
 
+<A HREF="https://www.journals.elsevier.com/neurocomputing">Neurocomputing</A>
+
+
 
 
 
