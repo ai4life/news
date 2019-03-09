@@ -17,6 +17,8 @@
 
 <A HREF="https://news.ycombinator.com/">Hacker News</A>
 
+<hr>
+
 <b>Journals<b/>
 
 <A HREF="https://www.jair.org/index.php/jair">Journal of Artificial Intelligence Research</A>
@@ -25,6 +27,7 @@
 
 <A HREF="https://www.journals.elsevier.com/artificial-intelligence">Artificial Intelligence Journal</A>
 
+<hr>
 
 <iframe width="100%" height="750" frameborder="0" class="rssdog" src="https://www.rssdog.com/index.php?url=https%3A%2F%2Fwww.google.com%2Falerts%2Ffeeds%2F12920791984365487578%2F17274722080181244079&mode=html&showonly=&maxitems=0&showdescs=1&desctrim=0&descmax=0&tabwidth=100%25&linktarget=_blank&textsize=inherit&bordercol=%23d4d0c8&headbgcol=%23999999&headtxtcol=%23ffffff&titlebgcol=%23f1eded&titletxtcol=%23000000&itembgcol=%23ffffff&itemtxtcol=%23000000&ctl=0"></iframe>
 
