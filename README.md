@@ -30,6 +30,10 @@
 
 <A HREF="https://link.springer.com/journal/10994">Machine Learning</A>
 
+<A HREF="http://www.aaai.org/Magazine/magazine.php">AI MAGAZINE</A>
+
+
+
 
 
 <hr>
