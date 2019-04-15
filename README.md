@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favion-32x32.ico">
+
 ## AI News
 <img src="ai.jpg" alt="AI" style="width:450px;height:300px;">
 
