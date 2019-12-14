@@ -5,7 +5,7 @@
 <hr>
 
 <hr>
-<A HREF="https://ai4life.github.io/problems/">
+<A HREF="https://ai4life.github.io/problems/"> Problems </A>
 
 <A HREF="https://futurism.com/categories/artificialintelligence">Futurism</A>
 
